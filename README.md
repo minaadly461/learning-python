@@ -8,9 +8,11 @@ This repository contains my journey learning Python, including scripts and Jupyt
 - Functions
 - Data Structures
 - Jupyter Notebook Practice
+- Pandas Basics
 
 ## Tools
 - Python
 - Jupyter Notebook
 
 More projects coming soon 🚀
+
